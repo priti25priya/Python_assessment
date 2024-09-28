@@ -44,7 +44,7 @@ Demonstrate various methods to find unique values in a list or iterable, ensurin
 Assignment 15 - Count Words and Letters
 Write a function to count the number of words and letters in a given paragraph.
 
-Feel free to let me know if you need further modifications or additional assistance!
+
 
 
 
