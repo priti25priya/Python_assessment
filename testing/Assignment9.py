@@ -1,7 +1,6 @@
 import unittest
 import numpy as np
 from Python_assessment.src.assignment9. util import CalculateFloorCeilRint
-
 class TestCalculateFloorCeilRint(unittest.TestCase):
     def test_CalculateFloorCeilRint(self):
         input_data = [1.1, 2.2, 3.3, 4.4, 5.5, 6.6, 7.7, 8.8, 9.9]

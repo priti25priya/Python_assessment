@@ -1,5 +1,4 @@
 import numpy as np
-
 def CalculateFloorCeilRint(arr):
     result = []
     for num in arr:
