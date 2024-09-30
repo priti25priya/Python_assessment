@@ -1,5 +1,4 @@
 import util
-
 if __name__ == "__main__":
     emails = [
         "pritirai326@gmail.com",
