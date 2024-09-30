@@ -7,7 +7,6 @@ def calculate_average():
     }
 
     student_name = input("Enter the student's name: ")
-
     if student_name in student_marks:
         marks = student_marks[student_name]
         average = sum(marks) / len(marks)

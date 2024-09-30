@@ -1,7 +1,6 @@
 import unittest
 from Python_assessment.src.assignment1.util import calculate_average
 
-
 class MyTestCase(unittest.TestCase):
     def test_something(self):
         # Example data to test
