@@ -1,7 +1,6 @@
 import unittest
 from Python_assessment.src.assignment14.util import find_unique_numbers
 
-
 class MyTestCase(unittest.TestCase):
     def test_something(self):
         my_list = [1, 2, 3, 4, 5, 3, 2, 1, 6, 7]
