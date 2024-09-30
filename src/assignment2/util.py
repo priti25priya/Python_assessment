@@ -1,5 +1,4 @@
 def find_runner_up_score():
-
     n = int(input("Enter the number of participants: "))
     number = input(f"Enter the {n} scores separated by spaces or commas: ")
     scores = list(map(int, number.replace(',', ' ').split()))
