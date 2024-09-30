@@ -8,7 +8,6 @@ def Time_delta():
     time1 = datetime.strptime(timestamp1, "%Y-%m-%d %H:%M:%S %z")
     time2 = datetime.strptime(timestamp2, "%Y-%m-%d %H:%M:%S %z")
 
-
     time_difference = abs(time1 - time2)
 
 
