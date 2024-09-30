@@ -1,7 +1,6 @@
 import unittest
 from Python_assessment.src.assignment15.util import count_words, count_characters
 
-
 class MyTestCase(unittest.TestCase):
 
     def test_count_words(self):

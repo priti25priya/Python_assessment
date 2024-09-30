@@ -1,6 +1,5 @@
 
 def count_words(paragraph):
-
     words = paragraph.split()
     return len(words)
 

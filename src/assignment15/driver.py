@@ -1,7 +1,6 @@
 
 
 from util import count_words, count_characters
-
 def main():
     paragraph = input("Enter a paragraph: ").strip()
     word = count_words(paragraph)
