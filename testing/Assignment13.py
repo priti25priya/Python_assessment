@@ -1,7 +1,6 @@
 import unittest
 from Python_assessment.src.assignment13.util import find_max_and_min
 
-
 class MyTestCase(unittest.TestCase):
     def test_something(self):
         x, y = 3, 3
