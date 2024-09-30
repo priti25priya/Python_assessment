@@ -1,7 +1,6 @@
 import unittest
 from Python_assessment.src.assignment3.util import modify_string
 
-
 class MyTestCase(unittest.TestCase):
     def test_something(self):
         result="dummy"
