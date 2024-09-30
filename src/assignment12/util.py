@@ -9,3 +9,4 @@ def Sets(sub, A, B):
             total += 0
 
     return total
+

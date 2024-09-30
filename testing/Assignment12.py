@@ -1,7 +1,6 @@
 import unittest
 from Python_assessment.src.assignment12.util import Sets
 
-
 class MyTestCase(unittest.TestCase):
     def test_something(self):
         sub=[1, 2, 3 ,4 ,5]

@@ -1,5 +1,4 @@
 import util
-
 if __name__ == "__main__":
     sub = list(map(int, input("Enter list values (space-separated): ").split()))
 
