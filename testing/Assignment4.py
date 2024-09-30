@@ -1,7 +1,6 @@
 import unittest
 from Python_assessment.src.assignment4.util import merge
 
-
 class MyTestCase(unittest.TestCase):
     def test_something(self):
         result = merge("MANAGERIO", 3)
