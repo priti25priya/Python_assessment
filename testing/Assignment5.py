@@ -7,6 +7,5 @@ class MyTestCase(unittest.TestCase):
         result=5
         self.assertEqual(StringFormat(result),None) # add assertion here
 
-
 if __name__ == '__main__':
     unittest.main()
