@@ -1,7 +1,6 @@
 import unittest
 from Python_assessment.src.assignment6.util import datetime
 
-
 class MyTestCase(unittest.TestCase):
     def test_something(self):
         # Split the string into day, month, and year integers
