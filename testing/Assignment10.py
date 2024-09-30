@@ -8,6 +8,5 @@ class MyTestCase(unittest.TestCase):
         word = 'apple'
         self.assertEqual(CountWord(Fruits,word),3 )  # add assertion here
 
-
 if __name__ == '__main__':
     unittest.main()
