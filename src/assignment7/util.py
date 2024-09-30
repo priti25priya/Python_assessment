@@ -6,7 +6,6 @@ def CalculateAverage():
         {"ID": 4, "Name": "Priti", "Class": 12, "Marks": 88},
         {"ID": 5, "Name": "Dexter", "Class": 12, "Marks": 81},
     ]
-
     total_marks = 0
     numberofstudents = 0
 
